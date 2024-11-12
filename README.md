@@ -273,7 +273,4 @@ scrape_in_parallel(
     -   **default: scrape_linkedin.utils.HEADLESS_OPTIONS**
 -   _\*\*kwargs_ **`{any}`**: extra keyword arguments to pass to the `scraper_type` constructor for each job
 
-## Issues
 
-Report bugs and feature requests
-[here](https://github.com/austinoboyle/scrape-linkedin-selenium/issues).
